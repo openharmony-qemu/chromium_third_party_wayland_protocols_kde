@@ -1,8 +1,24 @@
 [
     {
         "Name": "chromium_third_party_wayland_protocols_kde",                   # 上游开源软件名全称
-        "License":"SPDX:LGPL-2.1-or-later"  ,   "LGPLStyleLicense","LGPL-3.0+"      # 上游开源软件中包含的许可证信息
-        "License File": "LICENSE/BSD-3-Clause.txt","LGPL-2.1-only.txt","LGPL-2.1-or-later.txt","LGPL-3.0-only.txt","LicenseRef-KDE-Accepted-LGPL.txt","MIT-CMU.txt","MIT.txt"     # 许可证所在文件路径
+        "License":"SPDX:LGPL-2.1-or-later",    # 上游开源软件中包含的许可证信息
+        "License File": "COPYING.LIB",   # 许可证所在文件路径
+        "Version Number": "0b07950714b3a36c9b9f71fc025fc7783e82926e",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KDE/plasma-wayland-protocols.git@0b07950714b3a36c9b9f71fc025fc7783e82926e",   # 上游软件包发布地址
+        "Description": "设计替代X的显示服务器kde"           # 开源软件功能描述
+    },
+    {
+        "Name": "chromium_third_party_wayland_protocols_kde",                   # 上游开源软件名全称
+        "License":"LGPLStyleLicense",    # 上游开源软件中包含的许可证信息
+        "License File": "COPYING.LIB",   # 许可证所在文件路径
+        "Version Number": "0b07950714b3a36c9b9f71fc025fc7783e82926e",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KDE/plasma-wayland-protocols.git@0b07950714b3a36c9b9f71fc025fc7783e82926e",   # 上游软件包发布地址
+        "Description": "设计替代X的显示服务器kde"           # 开源软件功能描述
+    },
+    {
+        "Name": "chromium_third_party_wayland_protocols_kde",                   # 上游开源软件名全称
+        "License":"LGPL-3.0+",    # 上游开源软件中包含的许可证信息
+        "License File": "COPYING.LIB",   # 许可证所在文件路径
         "Version Number": "0b07950714b3a36c9b9f71fc025fc7783e82926e",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/KDE/plasma-wayland-protocols.git@0b07950714b3a36c9b9f71fc025fc7783e82926e",   # 上游软件包发布地址
         "Description": "设计替代X的显示服务器kde"           # 开源软件功能描述
