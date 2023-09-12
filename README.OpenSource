@@ -1,6 +1,6 @@
 [
     {
-        "Name": "kde",                   # 上游开源软件名全称
+        "Name": "plasma-wayland-protocols",                   # 上游开源软件名全称
         "License":"SPDX:LGPL-2.1-or-later",    # 上游开源软件中包含的许可证信息
         "License File": "COPYING.LIB",   # 许可证所在文件路径
         "Version Number": "0b07950714b3a36c9b9f71fc025fc7783e82926e",
@@ -8,7 +8,7 @@
         "Description": "设计替代X的显示服务器kde"           # 开源软件功能描述
     },
     {
-        "Name": "kde",                   # 上游开源软件名全称
+        "Name": "plasma-wayland-protocols",                   # 上游开源软件名全称
         "License":"LGPLStyleLicense",    # 上游开源软件中包含的许可证信息
         "License File": "COPYING.LIB",   # 许可证所在文件路径
         "Version Number": "0b07950714b3a36c9b9f71fc025fc7783e82926e",
@@ -16,7 +16,7 @@
         "Description": "设计替代X的显示服务器kde"           # 开源软件功能描述
     },
     {
-        "Name": "kde",                   # 上游开源软件名全称
+        "Name": "plasma-wayland-protocols",                   # 上游开源软件名全称
         "License":"LGPL-3.0+",    # 上游开源软件中包含的许可证信息
         "License File": "COPYING.LIB",   # 许可证所在文件路径
         "Version Number": "0b07950714b3a36c9b9f71fc025fc7783e82926e",
