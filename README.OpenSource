@@ -1,11 +1,11 @@
 [
     {
-        "Name": "plasma-wayland-protocols",                   # 上游开源软件名全称
-        "License":"LGPL-2.1-only",    # 上游开源软件中包含的许可证信息
-        "License File": "COPYING.LIB",   # 许可证所在文件路径
+        "Name": "plasma-wayland-protocols",                   
+        "License":"LGPL-2.1-only",   
+        "License File": "COPYING.LIB",   
         "Version Number": "0b07950714b3a36c9b9f71fc025fc7783e82926e",
         "Owner": "jinchanggang@huawei.com",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KDE/plasma-wayland-protocols.git@0b07950714b3a36c9b9f71fc025fc7783e82926e",   # 上游软件包发布地址
-        "Description": "设计替代X的显示服务器kde"           # 开源软件功能描述
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KDE/plasma-wayland-protocols.git@0b07950714b3a36c9b9f71fc025fc7783e82926e",  
+        "Description": "设计替代X的显示服务器kde"           
     }
 ]
