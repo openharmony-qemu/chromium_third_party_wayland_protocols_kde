@@ -1,11 +1,11 @@
 [
     {
-        "Name": "plasma-wayland-protocols",
+        "Name": "KDE",
         "License":"LGPL-2.1-only",
         "License File": "COPYING.LIB",
         "Version Number": "0b07950714b3a36c9b9f71fc025fc7783e82926e",
         "Owner": "jinchanggang@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/KDE/plasma-wayland-protocols.git@0b07950714b3a36c9b9f71fc025fc7783e82926e",
-        "Description": "设计替代X的显示服务器kde"
+        "Description": "设计替代X的显示服务器kde,一种运行于Linux、Unix以及BSD等类UNIX操作系统上的自由图形桌面环境"
     }
 ]
