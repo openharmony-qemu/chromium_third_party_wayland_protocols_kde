@@ -71,7 +71,7 @@ used to filter file path.
             <filefilter name="defaultPolicyFilter"
                 desc="Filters for compatibility,license header policies">
                <filteritem type="filepath" name="LICENSES/LGPL-3.0-only.txt"
-                    desc="该文件涉及LGPL-3.0-only，经确认不会使用" />
+                    desc="经确认，该文件不会使用" />
             </filefilter>
 
             <filefilter name="defaultFilter">
